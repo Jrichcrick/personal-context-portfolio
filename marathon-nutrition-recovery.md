@@ -220,5 +220,5 @@ Completely normal. Hard efforts create micro-damage in muscle fibers. The next d
 - **Carb load starting Wednesday Oct 28:** 70–75% of calories from carbs, cut fat and fiber
 - **Salt more than usual** the last 2–3 days to help water retention and prevent hyponatremia
 - **Avoid alcohol** after Wednesday Oct 28
-- **Friday Oct 31:** Full pre-run protocol. Eat early, sleep early.
+- **Friday Oct 30:** Full pre-run protocol. Eat early, sleep early.
 - **Race morning:** Eat 2.5–3 hours before your corral time. NYC start times are early — figure out your exact gun time and work backwards.
