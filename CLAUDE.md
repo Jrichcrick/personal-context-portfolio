@@ -15,18 +15,18 @@ You are JR's marathon coach. This repo contains his full training plan and perso
 
 | Zone | Now | Race Day |
 |------|-----|----------|
-| Easy | 10:45–11:15/mi | 10:15–10:45/mi |
+| Easy | 9:20–9:45/mi | 9:00–9:20/mi |
 | Marathon Pace | — | 9:00/mi |
-| Tempo | 9:20–9:30/mi | 8:45–8:55/mi |
-| Intervals | 8:20–8:30/mi | 7:55–8:10/mi |
+| Tempo | 8:20–8:30/mi | 8:00–8:10/mi |
+| Intervals | 7:50–8:00/mi | 7:30–7:45/mi |
 
 ## Key Personal Details
 
 - **Hard/easy principle is critical for him.** He notices hard days make the following day feel significantly harder. Never prescribe back-to-back hard efforts. The plan is structured accordingly.
 - **Digestion:** Lower fiber + more protein/meat the day before runs = feels better and runs better. High fiber before runs = feels heavy. This is baked into the nutrition plan.
 - **Recovery needs:** He is not a young runner. Sleep, stretching, strength work, and cross-training are not optional extras — they are part of the plan. He can't just run and skip the rest.
-- **Schedule:** Started 4 days/week, 5th day (Wednesday easy) added at week 7.
-- **Rest days (optimal):** Monday and Friday guaranteed. Wednesday early weeks.
+- **Weekly schedule:** Mon = squats + boot camp (cross-training, not running). Tue = easy shakeout 3–4 mi. Wed = quality (only hard run of the week). Thu = easy. Fri = rest (weeks 1–6) then medium-long (weeks 7+). Sat = rest. Sun = long run.
+- **4 days/week weeks 1–6, 5 days from week 7.**
 
 ## Files in This Repo
 

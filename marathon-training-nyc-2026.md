@@ -9,16 +9,16 @@
 
 ## Training Paces
 
-Based on your 27-min 5K. Retune after tune-up races.
+Based on your actual running (9:20 easy days, 8:30 on harder shorter runs).
 
 | Zone | Current | By Race Day | Feel |
 |------|---------|-------------|------|
-| Easy (E) | 10:45–11:15/mi | 10:15–10:45/mi | Fully conversational |
-| Marathon Pace (MP) | — | **9:00/mi** | Comfortably hard |
-| Tempo (T) | 9:20–9:30/mi | 8:45–8:55/mi | Hard but controlled |
-| Intervals (I) | 8:20–8:30/mi | 7:55–8:10/mi | 5K–10K effort |
+| Easy (E) | 9:20–9:45/mi | 9:00–9:20/mi | Fully conversational |
+| Marathon Pace (MP) | — | **9:00/mi** | Comfortably hard, sustained |
+| Tempo (T) | 8:20–8:30/mi | 8:00–8:10/mi | Hard but controlled, 20–40 min max |
+| Intervals (I) | 7:50–8:00/mi | 7:30–7:45/mi | 5K–10K effort, short repeats |
 
-Run easy days at the **top** of the easy range (slower is fine). Easy means easy.
+**One thing to know:** your easy pace (9:20) and your marathon goal pace (9:00) are very close. That gap will widen as your fitness improves and your easy pace gets faster — by race day your easy runs will feel like a different gear than 9:00 race pace. On recovery days and the day after hard sessions, slow down to 9:45 or beyond if your legs need it. There's no floor on easy.
 
 ---
 
@@ -55,20 +55,20 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 
 | Day | Workout |
 |-----|---------|
-| Thu Jun 4 | Easy 5 mi @ 10:45–11:15/mi *(already done — ~3.6 mi, good enough)* |
-| Fri Jun 5 | Easy 5 mi @ 10:45–11:15/mi |
+| Thu Jun 4 | Easy 5 mi @ 9:20–9:45/mi *(already done — ~3.6 mi, good enough)* |
+| Fri Jun 5 | Easy 5 mi @ 9:20–9:45/mi |
 | Sat Jun 6 | Rest |
-| Sun Jun 7 | Long run: 12 mi easy @ 10:45–11:15/mi |
+| Sun Jun 7 | Long run: 12 mi easy @ 9:20–9:45/mi |
 | Mon Jun 8 | Squats + boot camp |
-| Tue Jun 9 | Easy shakeout: 3 mi @ 11:00–11:15/mi |
-| Wed Jun 10 | 4×1200m @ 8:25/mi (90 sec jog recovery) = 7 mi total |
+| Tue Jun 9 | Easy shakeout: 3 mi @ 9:30–9:45/mi |
+| Wed Jun 10 | 4×1200m @ 7:55/mi (90 sec jog recovery) = 7 mi total |
 
 ### Week 2 — June 11–17 | ~27 miles
 | Day | Workout |
 |-----|---------|
 | Mon Jun 11 | Squats + boot camp |
 | Tue Jun 12 | Easy shakeout: 3 mi |
-| Wed Jun 13 | Tempo: 1.5 mi warm-up + 3 mi @ 9:25/mi + 1.5 mi cool-down = 6 mi total |
+| Wed Jun 13 | Tempo: 1.5 mi warm-up + 3 mi @ 8:25/mi + 1.5 mi cool-down = 6 mi total |
 | Thu Jun 14 | Easy 5 mi |
 | Fri Jun 15 | Rest |
 | Sat Jun 16 | Rest |
@@ -79,7 +79,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jun 18 | Squats + boot camp |
 | Tue Jun 19 | Easy shakeout: 3 mi |
-| Wed Jun 20 | 5×1000m @ 8:25/mi (2 min jog recovery) = 7 mi total |
+| Wed Jun 20 | 5×1000m @ 7:55/mi (2 min jog recovery) = 7 mi total |
 | Thu Jun 21 | Easy 6 mi |
 | Fri Jun 22 | Rest |
 | Sat Jun 23 | Rest |
@@ -90,7 +90,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jun 25 | Squats + boot camp |
 | Tue Jun 26 | Easy shakeout: 3 mi |
-| Wed Jun 27 | Tempo: 1 mi warm-up + 3 mi @ 9:20/mi + 1 mi cool-down = 5 mi total |
+| Wed Jun 27 | Tempo: 1 mi warm-up + 3 mi @ 8:20/mi + 1 mi cool-down = 5 mi total |
 | Thu Jun 28 | Easy 5 mi |
 | Fri Jun 29 | Rest |
 | Sat Jun 30 | Rest |
@@ -106,7 +106,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jul 2 | Squats + boot camp |
 | Tue Jul 3 | Easy shakeout: 3 mi |
-| Wed Jul 4 | 5×1000m @ 8:25/mi = 8 mi total |
+| Wed Jul 4 | 5×1000m @ 7:55/mi = 8 mi total |
 | Thu Jul 5 | Easy 6 mi |
 | Fri Jul 6 | Rest |
 | Sat Jul 7 | Rest |
@@ -117,7 +117,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jul 9 | Squats + boot camp |
 | Tue Jul 10 | Easy shakeout: 3 mi |
-| Wed Jul 11 | Tempo: 1.5 mi warm-up + 5 mi @ 9:20/mi + 1.5 mi cool-down = 8 mi total |
+| Wed Jul 11 | Tempo: 1.5 mi warm-up + 5 mi @ 8:20/mi + 1.5 mi cool-down = 8 mi total |
 | Thu Jul 12 | Easy 6 mi |
 | Fri Jul 13 | Rest |
 | Sat Jul 14 | Rest |
@@ -136,7 +136,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jul 16 | Squats + boot camp |
 | Tue Jul 17 | Easy shakeout: 4 mi |
-| Wed Jul 18 | 5×1200m @ 8:25/mi (90 sec jog) = 9 mi total |
+| Wed Jul 18 | 5×1200m @ 7:55/mi (90 sec jog) = 9 mi total |
 | Thu Jul 19 | Easy 6 mi |
 | **Fri Jul 20** | **Medium: 9 mi easy (new 5th day — keep it easy)** |
 | Sat Jul 21 | Rest |
@@ -147,7 +147,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jul 23 | Squats + boot camp |
 | Tue Jul 24 | Easy shakeout: 3 mi |
-| Wed Jul 25 | Tempo: 1 mi warm-up + 3 mi @ 9:15/mi + 1 mi cool-down = 5 mi total |
+| Wed Jul 25 | Tempo: 1 mi warm-up + 3 mi @ 8:15/mi + 1 mi cool-down = 5 mi total |
 | Thu Jul 26 | Easy 5 mi |
 | Fri Jul 27 | Easy 7 mi |
 | Sat Jul 28 | Rest |
@@ -163,7 +163,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Jul 30 | Squats + boot camp |
 | Tue Jul 31 | Easy shakeout: 4 mi |
-| Wed Aug 5 | 4×1600m @ 8:20/mi (2 min jog) = 9 mi total |
+| Wed Aug 5 | 4×1600m @ 7:55/mi (2 min jog) = 9 mi total |
 | Thu Aug 1 | Easy 6 mi |
 | Fri Aug 2 | Medium: 9 mi, miles 6–8 @ 9:00/mi (first MP taste on a medium run) |
 | Sat Aug 3 | Rest |
@@ -174,7 +174,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Aug 6 | Squats + boot camp |
 | Tue Aug 7 | Easy shakeout: 4 mi |
-| Wed Aug 8 | Tempo: 1.5 mi warm-up + 6 mi @ 9:10/mi + 1.5 mi cool-down = 9 mi total |
+| Wed Aug 8 | Tempo: 1.5 mi warm-up + 6 mi @ 8:15/mi + 1.5 mi cool-down = 9 mi total |
 | Thu Aug 9 | Easy 6 mi |
 | Fri Aug 10 | Medium: 10 mi, miles 6–9 @ 9:00/mi |
 | Sat Aug 11 | Rest |
@@ -185,7 +185,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Aug 13 | Squats + boot camp |
 | Tue Aug 14 | Easy shakeout: 4 mi |
-| Wed Aug 15 | 5×1600m @ 8:15/mi = 10 mi total |
+| Wed Aug 15 | 5×1600m @ 7:50/mi = 10 mi total |
 | Thu Aug 16 | Easy 6 mi |
 | Fri Aug 17 | Medium: 10 mi, miles 5–9 @ 9:00/mi |
 | Sat Aug 18 | Rest |
@@ -196,7 +196,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Aug 20 | Squats + boot camp |
 | Tue Aug 21 | Easy shakeout: 3 mi |
-| Wed Aug 22 | Tempo: 1 mi warm-up + 4 mi @ 9:05/mi + 1 mi cool-down = 6 mi total |
+| Wed Aug 22 | Tempo: 1 mi warm-up + 4 mi @ 8:10/mi + 1 mi cool-down = 6 mi total |
 | Thu Aug 23 | Easy 5 mi |
 | Fri Aug 24 | Easy 7 mi |
 | Sat Aug 25 | Rest |
@@ -212,7 +212,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Aug 27 | Squats + boot camp |
 | Tue Aug 28 | Easy shakeout: 4 mi |
-| Wed Aug 29 | 3×2 miles @ 8:55/mi (3 min jog) = 10 mi total |
+| Wed Aug 29 | 3×2 miles @ 8:05/mi (3 min jog) = 10 mi total |
 | Thu Aug 30 | Easy 6 mi |
 | Fri Aug 31 | Medium: 10 mi, miles 4–8 @ 9:00/mi |
 | Sat Sep 1 | Rest |
@@ -223,7 +223,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Sep 3 | Squats + boot camp |
 | Tue Sep 4 | Easy shakeout: 4 mi |
-| Wed Sep 5 | Tempo: 1.5 mi warm-up + 7 mi @ 8:55/mi + 1.5 mi cool-down = 10 mi total |
+| Wed Sep 5 | Tempo: 1.5 mi warm-up + 7 mi @ 8:05/mi + 1.5 mi cool-down = 10 mi total |
 | Thu Sep 6 | Easy 6 mi |
 | Fri Sep 7 | Medium: 10 mi, miles 4–8 @ 9:00/mi |
 | Sat Sep 8 | Rest |
@@ -234,7 +234,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Sep 10 | Squats + boot camp |
 | Tue Sep 11 | Easy shakeout: 4 mi |
-| Wed Sep 12 | 5×1600m @ 8:10/mi = 10 mi total |
+| Wed Sep 12 | 5×1600m @ 7:50/mi = 10 mi total |
 | Thu Sep 13 | Easy 6 mi |
 | Fri Sep 14 | Medium: 10 mi, miles 5–9 @ 9:00/mi |
 | Sat Sep 15 | Rest |
@@ -245,7 +245,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Sep 17 | Squats + boot camp |
 | Tue Sep 18 | Easy shakeout: 3 mi |
-| Wed Sep 19 | Tempo: 1 mi warm-up + 4 mi @ 8:55/mi + 1 mi cool-down = 6 mi total |
+| Wed Sep 19 | Tempo: 1 mi warm-up + 4 mi @ 8:05/mi + 1 mi cool-down = 6 mi total |
 | Thu Sep 20 | Easy 5 mi |
 | Fri Sep 21 | Easy 8 mi |
 | Sat Sep 22 | Rest |
@@ -261,7 +261,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Sep 24 | Squats + boot camp (reduce weight — maintenance only) |
 | Tue Sep 25 | Easy shakeout: 3 mi |
-| Wed Sep 26 | 4×1200m @ 8:10/mi = 8 mi total |
+| Wed Sep 26 | 4×1200m @ 7:50/mi = 8 mi total |
 | Thu Sep 27 | Easy 5 mi |
 | Fri Sep 28 | Medium: 10 mi, miles 6–9 @ 9:00/mi |
 | Sat Sep 29 | Rest |
@@ -272,7 +272,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Oct 1 | Light cross-train only — no squats this week |
 | Tue Oct 2 | Easy shakeout: 3 mi |
-| Wed Oct 3 | Tempo: 1 mi warm-up + 4 mi @ 8:55/mi + 1 mi cool-down = 6 mi total |
+| Wed Oct 3 | Tempo: 1 mi warm-up + 4 mi @ 8:05/mi + 1 mi cool-down = 6 mi total |
 | Thu Oct 4 | Easy 5 mi |
 | Fri Oct 5 | Easy 7 mi |
 | Sat Oct 6 | Rest |
@@ -283,7 +283,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Oct 8 | Light cross-train or rest |
 | Tue Oct 9 | Easy shakeout: 3 mi |
-| Wed Oct 10 | 3×1000m @ 8:10/mi = 5 mi total |
+| Wed Oct 10 | 3×1000m @ 7:50/mi = 5 mi total |
 | Thu Oct 11 | Easy 4 mi |
 | Fri Oct 12 | Easy 5 mi |
 | Sat Oct 13 | Rest |
@@ -294,7 +294,7 @@ Run easy days at the **top** of the easy range (slower is fine). Easy means easy
 |-----|---------|
 | Mon Oct 15 | Rest |
 | Tue Oct 16 | Easy shakeout: 3 mi |
-| Wed Oct 17 | 4×400m @ 8:00/mi + easy = 4 mi total |
+| Wed Oct 17 | 4×400m @ 7:45/mi + easy = 4 mi total |
 | Thu Oct 18 | Easy 3 mi |
 | Fri Oct 19 | Easy 5 mi, miles 3–4 @ 9:00/mi (feel the pace) |
 | Sat Oct 20 | Rest |
