@@ -9,7 +9,8 @@
 
 | Date | Type | Miles | Avg Pace | GAP | Avg HR | Max HR | Elevation | Notes |
 |------|------|-------|----------|-----|--------|--------|-----------|-------|
-| Jun 5 | Easy (warmup wk) | 6.37 | 8:45 | 8:39 | 160 | 176 | 310 ft | Felt effortful but had more in tank. 53% Z3, 21% Z4. Pace PR on route. Central Park. |
+| Jun 7 | Long run (warmup wk) | 10.37 | 9:27 | 9:19 | 159 | 173 | 544 ft | 73% Z2 pace / 69% Z3 HR (HR runs high). Clean cardiac drift 144→170. Solid easy long run. Fitness +5. |
+| Jun 5 | Easy (warmup wk) | 6.37 | 8:45 | 8:39 | 160 | 176 | 310 ft | Felt effortful but had more in tank. 53% Z3, 21% Z4. Pace PR on route. Ran too hard for warmup week. |
 
 ---
 
