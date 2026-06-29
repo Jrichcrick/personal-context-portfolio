@@ -1,0 +1,15 @@
+# Podcast feeds to monitor for new episodes
+# Supports: Spotify show URLs, RSS feed URLs, or Apple Podcasts URLs
+#
+# For each show, new episodes are downloaded automatically when you run monitor-feeds.py
+# Episodes already downloaded are tracked in downloaded.txt and skipped on re-runs.
+
+shows:
+  - name: "Unlocking Us with Brené Brown"
+    url: "https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ"
+    enabled: true
+
+  # Add more shows here, e.g.:
+  # - name: "My Other Podcast"
+  #   url: "https://feeds.example.com/podcast.rss"
+  #   enabled: true
